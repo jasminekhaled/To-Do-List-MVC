@@ -1,0 +1,17 @@
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.csproj.AssemblyReference.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.AssemblyInfoInputs.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.AssemblyInfo.cs
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.csproj.CoreCompileInputs.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\bin\Debug\net6.0\ToDoList_Services.deps.json
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\bin\Debug\net6.0\ToDoList_Services.runtimeconfig.json
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\bin\Debug\net6.0\ToDoList_Services.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\bin\Debug\net6.0\ToDoList_Services.pdb
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\bin\Debug\net6.0\ToDoList_DomainModel.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\bin\Debug\net6.0\ToDoList_DomainModel.pdb
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.csproj.CopyComplete
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\refint\ToDoList_Services.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.pdb
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ToDoList_Services.genruntimeconfig.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_Services\obj\Debug\net6.0\ref\ToDoList_Services.dll

@@ -1,0 +1,14 @@
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\bin\Debug\net6.0\ToDoList_DomainModel.deps.json
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\bin\Debug\net6.0\ToDoList_DomainModel.runtimeconfig.json
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\bin\Debug\net6.0\ToDoList_DomainModel.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\bin\Debug\net6.0\ToDoList_DomainModel.pdb
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ToDoList_DomainModel.csproj.AssemblyReference.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ToDoList_DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ToDoList_DomainModel.AssemblyInfoInputs.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ToDoList_DomainModel.AssemblyInfo.cs
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ToDoList_DomainModel.csproj.CoreCompileInputs.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ToDoList_DomainModel.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\refint\ToDoList_DomainModel.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ToDoList_DomainModel.pdb
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ToDoList_DomainModel.genruntimeconfig.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_DomainModel\obj\Debug\net6.0\ref\ToDoList_DomainModel.dll

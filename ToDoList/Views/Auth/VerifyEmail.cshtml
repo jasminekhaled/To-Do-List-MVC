@@ -1,0 +1,42 @@
+﻿@model ToDoList_DomainModel.ViewModels.Auth.VerifyEmailViewModel
+
+@{
+    ViewData["Title"] = "Verify Email";
+}
+
+<form asp-controller="Auth" asp-action="VerifyEmail" class="row-cols-2">
+    <p>Please check your email (@Model.Email ) and enter the verification code that is just send</p>
+    <input type="hidden" name="email" value="@Model.Email" />
+    <div class="form-group">
+        <label asp-for="VerificationCode" class="form-label mt-4"></label>
+        <input type="text" class="form-control" asp-for="VerificationCode" placeholder="Enter Verification Code">
+        <span asp-validation-for="VerificationCode" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary col-1 mt-3">Submit</button>
+
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        var error = '@Model.ErrorMessage'
+        // Check if TempData contains an error message
+        if (error) {
+            Swal.fire({
+                icon: 'error',
+                title: 'Error',
+                text: error,
+                showCancelButton: false,
+                confirmButtonText: 'OK',
+                allowOutsideClick: false
+            }).then((result) => {
+                // If the user clicked OK, redirect to another action
+                if (result.isConfirmed) {
+                    window.location.href = '/Auth/SignUp'; // Replace with your desired action
+                }
+            });
+        }
+    </script>
+}

@@ -1,0 +1,17 @@
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.csproj.AssemblyReference.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.GeneratedMSBuildEditorConfig.editorconfig
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.AssemblyInfoInputs.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.AssemblyInfo.cs
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.csproj.CoreCompileInputs.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\bin\Debug\net6.0\ToDoList_AccessModel.deps.json
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\bin\Debug\net6.0\ToDoList_AccessModel.runtimeconfig.json
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\bin\Debug\net6.0\ToDoList_AccessModel.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\bin\Debug\net6.0\ToDoList_AccessModel.pdb
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\bin\Debug\net6.0\ToDoList_DomainModel.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\bin\Debug\net6.0\ToDoList_DomainModel.pdb
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.csproj.CopyComplete
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\refint\ToDoList_AccessModel.dll
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.pdb
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ToDoList_AccessModel.genruntimeconfig.cache
+G:\WEB DEVELOPMENT\ToDoList\ToDoList_AccessModel\obj\Debug\net6.0\ref\ToDoList_AccessModel.dll

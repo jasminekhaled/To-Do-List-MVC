@@ -1,0 +1,39 @@
+﻿@model ToDoList_DomainModel.ViewModels.Auth.SignUpViewModel
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<form asp-controller="Auth" asp-action="SignUp" method="post"  class="row-cols-2" >
+    <div class="form-group">
+        <label asp-for="SignUpDto.UserName" class="form-label mt-4"></label>
+        <input type="text" class="form-control" asp-for="SignUpDto.UserName" placeholder="Enter User Name">
+        <span asp-validation-for="SignUpDto.UserName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SignUpDto.Email" class="form-label mt-4"></label>
+        <input type="email" class="form-control" asp-for="SignUpDto.Email" placeholder="Enter your g-mail">
+        <span asp-validation-for="SignUpDto.Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SignUpDto.Password" class="form-label mt-4"></label>
+        <input type="password" asp-for="SignUpDto.Password" class="form-control" placeholder="Enter Password">
+        <span asp-validation-for="SignUpDto.Password" class="text-danger"></span>
+    </div>
+    
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <p style="color:red">@Model.ErrorMessage</p>
+    }
+
+    <button type="submit" class="btn btn-primary col-1 mt-3 mb-3">Submit</button>
+    <br />
+    <span>Already have an account? <a asp-controller="Auth" asp-action="LogIn">LogIn</a></span>
+
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

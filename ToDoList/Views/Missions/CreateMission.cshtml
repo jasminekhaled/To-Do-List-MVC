@@ -1,0 +1,54 @@
+﻿@using ToDoList_DomainModel.Dtos.MissionModule.Response;
+@model ToDoList_DomainModel.ViewModels.Missions.CreateMissionViewModel
+
+@{
+    ViewData["Title"] = "Add Task";
+}
+<h3>Add New Task</h3>
+
+<form asp-action="CreateMission">
+    <div class="form-group">
+        <label asp-for="AddMissionRequestDto.Title" class="form-label mt-4"></label>
+        <input type="text" class="form-control" asp-for="AddMissionRequestDto.Title" placeholder="Enter Title">
+        <span asp-validation-for="AddMissionRequestDto.Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AddMissionRequestDto.Description" class="form-label mt-4"></label>
+        <input type="text" class="form-control" asp-for="AddMissionRequestDto.Description" placeholder="Enter Describtion">
+        <span asp-validation-for="AddMissionRequestDto.Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AddMissionRequestDto.DueDate" class="form-label mt-4"></label>
+        <input type="date" class="form-control" asp-for="AddMissionRequestDto.DueDate" asp-format="{0:dd/MM/yyyy}" placeholder="Enter DueDate">
+        <span asp-validation-for="AddMissionRequestDto.DueDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AddMissionRequestDto.CategoryId" class="form-label mt-4">Category</label>
+        <select class="form-select" asp-for="AddMissionRequestDto.CategoryId" asp-items="new SelectList(Model.CategoryDtos, nameof(CategoryDto.Id), nameof(CategoryDto.Name))">
+            <option>Select Category</option>
+        </select>
+        <span asp-validation-for="AddMissionRequestDto.CategoryId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AddMissionRequestDto.LevelId" class="form-label mt-4">Level</label>
+        <select class="form-select" asp-for="AddMissionRequestDto.LevelId" asp-items="new SelectList(Model.LevelDtos, nameof(LevelDto.Id), nameof(LevelDto.Name))">
+            <option>Select Level</option>
+        </select>
+        <span asp-validation-for="AddMissionRequestDto.LevelId" class="text-danger"></span>
+    </div>
+
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <p style="color:red">@Model.ErrorMessage</p>
+    }
+
+    <button type="submit" class="btn btn-primary col-1 mt-3 mb-3">Submit</button>
+</form>
+
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

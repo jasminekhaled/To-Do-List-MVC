@@ -1,0 +1,76 @@
+﻿@model ToDoList_DomainModel.ViewModels.Missions.ListOfMissionsViewModel
+
+@{
+    ViewData["Title"] = "Profile";
+}
+<a class="btn btn-secondary mb-3" asp-controller="Missions" asp-action="CreateMission"><i class="bi bi-plus-circle"></i> AddTask</a>
+
+<div class="btn-group" style="float:right;" role="group" aria-label="Button group with nested dropdown">
+    <button type="button" class="btn btn-primary">Category</button>
+    <div class="btn-group" role="group">
+        <button id="btnGroupDrop1" type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+        <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+            @foreach (var category in Model.CategoryDtos)
+            {
+                <a class="dropdown-item" asp-route-id="@category.Id" asp-action="FilterByCategory">@category.Name</a>
+            }
+        </div>
+    </div>
+</div>
+
+@if (Model.MissionDto.Count() == 0)
+{
+    <div class="alert alert-dismissible alert-secondary m-4" style="width:400px;">
+        <strong>No Tasks added yet.</strong>
+    </div>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Due Date</th>
+        <th>Category</th>
+        <th>Level</th>
+        <th>Status</th>
+        <th>Action</th>
+        </thead>
+        <tbody>
+            @foreach (var mission in Model.MissionDto)
+            {
+                <tr>
+                    <td>@mission.Title</td>
+                    <td>@mission.Description</td>
+                    <td>@mission.DueDate</td>
+                    <td>@mission.CategoryName</td>
+                    <td>@mission.LevelName</td>
+                    <td>
+                        @if (mission.Complete)
+                        {
+                            <button style="border:none; background-color: white;" id="CompleteBtn" asp-action="CompleteMission" data-id="@mission.Id">
+                                <span class="badge rounded-pill bg-primary">Completed</span>
+                            </button>
+
+                        }
+                        else
+                        {
+                            <button style="border:none; background-color: white;" id="InCompleteBtn" asp-action="CompleteMission" data-id="@mission.Id">
+                                <span class="badge rounded-pill bg-secondary">InCompleted</span>
+                            </button>
+
+                        }
+                    </td>
+                    <td>
+                        <a class=" btn btn-primary" asp-action="EditMission" asp-route-id="@mission.Id">Edit</a>
+                        <button class=" btn btn-secondary" id="DeleteBtn" asp-action="DeleteMission" data-id="@mission.Id">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@section Scripts{
+    <script src="~/js/Missions-Index.js" asp-append-version="true"></script>
+}
