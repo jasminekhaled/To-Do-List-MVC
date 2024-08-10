@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_Services\\ToDoList_Services.csproj": {}
+    "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_Services\\ToDoList_Services.csproj": {}
   },
   "projects": {
-    "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj": {
+    "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
+        "projectUniqueName": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
         "projectName": "ToDoList_DomainModel",
-        "projectPath": "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
+        "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
         "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-        "outputPath": "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_DomainModel\\obj\\",
+        "outputPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,14 +105,14 @@
         }
       }
     },
-    "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_Services\\ToDoList_Services.csproj": {
+    "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_Services\\ToDoList_Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_Services\\ToDoList_Services.csproj",
+        "projectUniqueName": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_Services\\ToDoList_Services.csproj",
         "projectName": "ToDoList_Services",
-        "projectPath": "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_Services\\ToDoList_Services.csproj",
+        "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_Services\\ToDoList_Services.csproj",
         "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-        "outputPath": "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_Services\\obj\\",
+        "outputPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -129,8 +129,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj": {
-                "projectPath": "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj"
+              "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj": {
+                "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj"
               }
             }
           }
