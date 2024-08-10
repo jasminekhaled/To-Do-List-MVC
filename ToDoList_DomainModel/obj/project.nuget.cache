@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Z4UCxxZyrUnb4at27HyH9++cjpqUXITtC5sd9iLORDH7M1xlOteddkF/7g+qw/4VAlc36uJWspeSQMSc4t6CQ==",
+  "dgSpecHash": "Ej7mTn/2WtRcsZYZC44j764OV7l/qj0pIhisnk+T1MrGBzwHPJutvBtpQwtNBp62lrBBKJ5RucF3zIxXMFNsCA==",
   "success": true,
-  "projectFilePath": "G:\\WEB DEVELOPMENT\\ToDoList\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
+  "projectFilePath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\com\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\com\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
