@@ -2430,11 +2430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_AccessModel\\ToDoList_AccessModel.csproj",
+      "projectUniqueName": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_AccessModel\\ToDoList_AccessModel.csproj",
       "projectName": "ToDoList_AccessModel",
-      "projectPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_AccessModel\\ToDoList_AccessModel.csproj",
+      "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_AccessModel\\ToDoList_AccessModel.csproj",
       "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-      "outputPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_AccessModel\\obj\\",
+      "outputPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_AccessModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2451,8 +2451,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj": {
-              "projectPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj"
+            "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj": {
+              "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj"
             }
           }
         }

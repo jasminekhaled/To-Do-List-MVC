@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ToDoList
 build_property.RootNamespace = ToDoList
-build_property.ProjectDir = G:\New folder (3)\To-Do-List-MVC\ToDoList\
+build_property.ProjectDir = G:\New folder (2)\To-Do-List-MVC\ToDoList\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\New folder (3)\To-Do-List-MVC\ToDoList
+build_property.MSBuildProjectDirectory = G:\New folder (2)\To-Do-List-MVC\ToDoList
 build_property._RazorSourceGeneratorDebug = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Auth/ChangeForgettedPassword.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Auth/ChangeForgettedPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDaGFuZ2VGb3JnZXR0ZWRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Auth/ForgetPassword.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Auth/ForgetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Auth/LogIn.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Auth/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Auth/SignUp.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Auth/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Auth/VerifyEmail.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Auth/VerifyEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxWZXJpZnlFbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Home/Index.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Home/Privacy.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Missions/CreateMission.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Missions/CreateMission.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzc2lvbnNcQ3JlYXRlTWlzc2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Missions/EditMission.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Missions/EditMission.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzc2lvbnNcRWRpdE1pc3Npb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Missions/FilterByCategory.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Missions/FilterByCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzc2lvbnNcRmlsdGVyQnlDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Missions/Index.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Missions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzc2lvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Shared/Error.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Shared/_ValidationScriptsPartial.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/_ViewImports.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/_ViewStart.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/New folder (3)/To-Do-List-MVC/ToDoList/Views/Shared/_Layout.cshtml]
+[G:/New folder (2)/To-Do-List-MVC/ToDoList/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dt7ithozdg

@@ -2404,11 +2404,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
+      "projectUniqueName": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
       "projectName": "ToDoList_DomainModel",
-      "projectPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
+      "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj",
       "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-      "outputPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_DomainModel\\obj\\",
+      "outputPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",

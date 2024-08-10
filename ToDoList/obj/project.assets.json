@@ -2484,11 +2484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList\\ToDoList.csproj",
+      "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-      "outputPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList\\obj\\",
+      "outputPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2505,14 +2505,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_AccessModel\\ToDoList_AccessModel.csproj": {
-              "projectPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_AccessModel\\ToDoList_AccessModel.csproj"
+            "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_AccessModel\\ToDoList_AccessModel.csproj": {
+              "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_AccessModel\\ToDoList_AccessModel.csproj"
             },
-            "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj": {
-              "projectPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj"
+            "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj": {
+              "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_DomainModel\\ToDoList_DomainModel.csproj"
             },
-            "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_Services\\ToDoList_Services.csproj": {
-              "projectPath": "G:\\New folder (3)\\To-Do-List-MVC\\ToDoList_Services\\ToDoList_Services.csproj"
+            "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_Services\\ToDoList_Services.csproj": {
+              "projectPath": "G:\\New folder (2)\\To-Do-List-MVC\\ToDoList_Services\\ToDoList_Services.csproj"
             }
           }
         }
